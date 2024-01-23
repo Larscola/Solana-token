@@ -1,8 +1,8 @@
 	{
       "chainId": 101,
-      "address": "FtGckaKyYoin6BttFtzgHQh7yyfzFXJua5rxzNZ2wbeG",
-      "symbol": "MRBLS",
-      "name": "Marbles Token",
-      "decimals": 7,
-      "logoURI": "https://raw.githubusercontent.com/SBPToken/token-list/main/assets/mainnet/FtGckaKyYoin6BttFtzgHQh7yyfzFXJua5rxzNZ2wbeG/logo.png"
+      "address": "EWdrwUcHNu1BGipnSHWc2bYuZFoJjeCJ94mpM4dAnfu6",
+      "symbol": "RNB",
+      "name": "ROUNDNBLACK",
+      "decimals": 8,
+      "logoURI": "https://github.com/Larscola/Solana-token/blob/main/2t4MyrbEmgWZvGTpZN55sh6ar1RGBecDtFLD7T5fN1Ss/rnblogo.png"
 	},
